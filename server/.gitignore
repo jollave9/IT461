@@ -1,12 +1,2 @@
-env/
-mysql-data/
-
-*.log
-*.pot
-*.pyc
-*__pycache__/
-
-.vscode/
-.vim/
-
-db.sqlite3
+__pycache__
+dockers/mysql-data/
